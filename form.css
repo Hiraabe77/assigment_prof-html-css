@@ -1,0 +1,102 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.form{
+    border: 1px solid gray;
+    border-radius: 2px;
+    box-shadow: 0.5px 0.5px 2px;
+      width: 600px;
+margin-top: 20px;
+padding:60px;
+}
+#G{
+    color: #4285F4;
+    font-family:sans-serif;
+    padding-left: 180px;
+}
+#o{
+  color: #EA4335;
+}
+#o2{
+  color: #FBBC05;
+}
+#g{
+ color: #4285F4;
+}
+#l{
+    color: #34A853;
+}
+#e{
+    color: #EA4335;
+}
+#Signin{
+ 
+    font-family:  sans-serif;
+      font-size: 20px;
+      text-align: center;
+      width: 95%;
+  
+  }
+  .btn{
+    background-color: #1962d8;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    margin-left: 10%;
+    cursor:alias;
+    width: 20%;
+    text-align: center;
+    margin-bottom:50px;
+    margin-left: 50%;
+    margin-right:20px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    
+}
+.footer select{
+ margin-left:0px;
+ border: none;
+}
+.footer p{
+    margin-left:80px;
+}
+
+  h2{
+
+    color: gray;
+
+    text-align: center;
+    width: 95%;
+    margin-top: -2%;
+}
+.input{
+    width:90%;
+    margin-right:5px;
+    padding: 2%;
+    margin-left:10px;
+    margin-bottom: 5px;
+}
+.forgetPassword{
+    margin-left: 15px;
+    padding-top:  100px;
+    text-decoration: none;
+    color:rgb(14, 14, 211);
+    font-size: 20px;
+}
+.learnMore{
+    margin-top: 40px;
+    margin-left: 15px;
+    color: #333;
+}
+.learnMore a{
+    text-decoration: none;
+    color: #1962d8;
+    font-size: 25px;
+   }
